@@ -1,7 +1,3 @@
-Certainly! Below is a sample GitHub README template for a repository that hosts Intel reference Windows drivers for MIPI cameras. The template assumes that the repository contains unmodified, original drivers.
-
----
-
 # 🖥️ Intel Reference Windows Drivers for MIPI Cameras 📸
 
 This repository contains the **unmodified Intel reference drivers** for **MIPI cameras** on **Windows** platforms. These drivers are provided as-is and have not been altered from their original state. They are intended for use with Intel-based systems that support MIPI camera interfaces.
